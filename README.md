@@ -1,12 +1,12 @@
 # AI-Based-Number-Guessing-Game_202401100300168
 Introduction:
-AI-based number guessing games uƟlize arƟficial 
-intelligence techniques to enhance tradiƟonal 
-gameplay, making it more interacƟve and engaging. 
-These games oŌen involve the AI aƩempƟng to 
+AI-based number guessing games utilize artificial 
+intelligence techniques to enhance traditional 
+gameplay, making it more interactive and engaging. 
+These games oŌen involve the AI attempting to 
 deduce a number chosen by the player through a 
 series of guesses, leveraging algorithms to improve its 
-guessing strategy over Ɵme.Overview of AI-Based 
+guessing strategy overcome.Overview of AI-Based 
 Number Guessing Game.
 
 Methodology:
